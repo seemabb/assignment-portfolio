@@ -11,18 +11,30 @@
 .banner{
     text-align: center;
 }
+.section-title{
+    font-size: 32px;
+    font-weight: 800;
+    color: #0D1321;
+}
+.section-descriotion{
+    font: size 16px; ;
+    color: #0D1321;
+}
 
 .banner-content{
     font-weight:700;
     font-size: 45px;
+    max-width: 998;
 }
 
-.banner-discription{
 
-}
 
 .btn-primary{
     background-color: #1E1E1E;
     color: white;
+}
+/* header */
+.header{
+    background-image: url('../assets/Hero-bg.png');
 }
 
